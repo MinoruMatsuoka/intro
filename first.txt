@@ -1,5 +1,0 @@
-test
-hoge
-git add
-git commit
-git diff
